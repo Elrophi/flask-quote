@@ -30,3 +30,6 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
     $ git clone https://github.com/Elrophi/flask-quote.git
     $ cd user-story
     $ code .
+##  Setting up the virtual environment and activating it
+    $ python -m venv <name of virtual environment>
+    $ source <name of virtual environment>/bin/activate
