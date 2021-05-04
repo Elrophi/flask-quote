@@ -33,3 +33,6 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 ##  Setting up the virtual environment and activating it
     $ python -m venv <name of virtual environment>
     $ source <name of virtual environment>/bin/activate
+##  Install flask and modules needed using requirements.txt
+       $ pip3 freeze install -r requirements.txt
+       
