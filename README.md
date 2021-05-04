@@ -76,3 +76,6 @@ login_manager.login_message_category= 'info'
 from app import views
 
 ``` 
+
+### Email: Elrophi@gmail.com
+### Contact: 0700 000 000
