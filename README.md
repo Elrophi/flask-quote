@@ -15,3 +15,10 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 >Flask
 
 ---
+
+>## Installation and setup locally
+## Pre-requisites
+- Python3
+- Virtual environment
+- bootstrap
+- flask
