@@ -22,3 +22,11 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 - Virtual environment
 - bootstrap
 - flask
+
+---
+>## Cloning and opening on compiler
+#### On your terminal run
+
+    $ git clone https://github.com/Elrophi/User-story.git
+    $ cd user-story
+    $ code .
