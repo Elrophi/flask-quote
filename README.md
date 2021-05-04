@@ -36,3 +36,9 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 ##  Install flask and modules needed using requirements.txt
        $ pip3 freeze install -r requirements.txt
        
+## Creating the start.sh file to tun the app
+ - Create a file and name it start.sh
+ - in the file add this
+
+       export SECRET_KEY=<you api key>
+       python3 manage.py server
