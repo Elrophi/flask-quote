@@ -27,6 +27,6 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 >## Cloning and opening on compiler
 #### On your terminal run
 
-    $ git clone https://github.com/Elrophi/User-story.git
+    $ git clone https://github.com/Elrophi/flask-quote.git
     $ cd user-story
     $ code .
