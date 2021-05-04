@@ -48,3 +48,7 @@ On your terminal run
 
         $ chmod +x start.sh
         $ ./start.sh
+
+## Test the application
+
+        $ python3 manage.py test
