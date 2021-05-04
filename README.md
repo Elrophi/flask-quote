@@ -81,4 +81,4 @@ from app import views
 ### Contact: 0700 000 000
 
 ### Copyright and License
-[MIT License](https://github.com/Elrophi/User-story/blob/master/LICENSE)  
+[MIT License](https://github.com/Elrophi/flask-quote/blob/master/LICENSE)  
