@@ -42,3 +42,9 @@ This is a flask blog that allows authentication, add, delete and edit blog posts
 
        export SECRET_KEY=<you api key>
        python3 manage.py server
+
+## Run the app now
+On your terminal run
+
+        $ chmod +x start.sh
+        $ ./start.sh
